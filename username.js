@@ -5,4 +5,4 @@ function random() {
 for (let i = 0; i < 8; i++) {  // replace (i < 8) with the length of the username you want, for example, I want a 4-character-long username, I replace i < 8 with i < 4 
     output += random();
 }
-console.log(output);
+console.log(output); // simply run this in console
